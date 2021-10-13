@@ -1,0 +1,7 @@
+print("hi what is your name")
+root = input()
+print("hi",{root})
+print("what are you doing")
+input()
+print("ok")
+print("bye")
