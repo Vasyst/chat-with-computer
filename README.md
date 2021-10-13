@@ -1,12 +1,1 @@
-# chat-with-computer
-print("Hello ")
-print("what is your name")
-root = input()
-print("hi",{root})
-print("what r u doing")
-input()
-print("ok")
-print("and do u know that i am coding")
-print("oh there is an error in the code hmmmm ok i will meet u some time later",{root})
-input()
-print("ok bye")
+
